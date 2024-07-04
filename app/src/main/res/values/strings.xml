@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HiltApp</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No Data</string>
+    <string name="no_network">No Network</string>
+    <string name="meal_image">Meal image</string>
+</resources>
